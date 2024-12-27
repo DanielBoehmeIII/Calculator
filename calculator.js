@@ -1,4 +1,7 @@
 document
+  //TODO:
+  //Add logic for scrolling when display gets full
+
   .querySelector(".calculator")
   .addEventListener("click", function (event) {
     const button = event.target;
